@@ -29,7 +29,8 @@ This project includes a Flipper Zero (Rubber Ducky) script 🦆 and a PHP script
 2. Configure your Discord webhook URL in the script 🔗.
 
 ## 🚀 Usage
-- Insert the Rubber Ducky into a Windows computer 💻.
+- Insert the Flipper Zero into a Windows computer 💻.
+- Run the Script and watch the magic 😁.
 - Data is sent to the PHP script and then to Discord 📤.
 
 ## ⚠️ Disclaimer
