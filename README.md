@@ -1,7 +1,7 @@
-# 🐬 Flipper Zero BadUSB/BadKB PC Info Extract Script POST to Discord Webhook Script 🌐
+# 🐬 A FlipperZero BadKB Script to pull lot of info from connected pc and sends to a Discord Webhook 🌐
 
 ## 📝 Description
-This project includes a Flipper Zero (Rubber Ducky) script 🦆 and a PHP script 🖥️ designed to collect system information from a Windows computer 💻 and send it to a Discord channel via a webhook 📤. The Rubber Ducky script gathers details like the computer's name, hardware ID, IP address, and Windows version, along with additional IP-related information using the ipinfo.io API 🌍. The PHP script then formats this data and forwards it to a Discord channel 📬.
+This project includes a Flipper Zero (Rubber Ducky) script 🦆 and a PHP script 🖥️ designed to collect system information from a Windows computer 💻 and send it to a Discord channel via a webhook 📤. The Rubber Ducky script gathers details like the computer's name, hardware ID, IP address, and Windows version, along with additional IP-related information using the ipinfo.io API 🌍. The PHP script then formats this data and forwards it to a Discord channel 📬. ( Its Wolf Of Wall street themed Webhook :> )
 
 ## 🧩 Components
 - **Rubber Ducky Script**: 🦆 Collects data from a Windows computer.
