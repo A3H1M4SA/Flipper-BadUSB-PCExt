@@ -19,7 +19,7 @@ This project includes a Flipper Zero (Rubber Ducky) script 🦆 and a PHP script
 
 ## ⚙️ Installation and Setup
 
-### Rubber Ducky Script
+### Flipper BadKB / BadUSB Script
 1. Make sure your flipper is running a stable update 🔧.
 2. Copy the script to the Flipper's BadUSB folder on your sD card 📂.
 3. Modify the script with your PHP script URL 📝.
